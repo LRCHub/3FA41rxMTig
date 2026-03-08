@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Juice",
+  "base_artist": "Lizzo",
+  "createdAt": "2026-03-08T15:59:06.657643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gin and Juice",
+      "artist": "The Gourds",
+      "has_synced": true,
+      "path": "select/01_Gin_and_Juice_The_Gourds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Godzilla (feat. Juice WRLD)",
+      "artist": "Eminem feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/02_Godzilla_(feat._Juice_WRLD)_Eminem_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Godzilla (feat. Juice WRLD)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Godzilla_(feat._Juice_WRLD)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mannequin Challenge (feat. Juice WRLD)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Mannequin_Challenge_(feat._Juice_WRLD)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Round (feat. Juice WRLD)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/05_Round_(feat._Juice_WRLD)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crunk Juice",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": false,
+      "path": "select/06_Crunk_Juice_Lil_Jon_&_The_East_Side_Boyz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crunk Juice",
+      "artist": "Lil Jon & The Eastside Boyz",
+      "has_synced": true,
+      "path": "select/07_Crunk_Juice_Lil_Jon_&_The_Eastside_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Juice",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/08_Juice_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ransom (with Juice WRLD) - Remix",
+      "artist": "Lil Tecca feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/09_Ransom_(with_Juice_WRLD)_-_Remix_Lil_Tecca_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yacht Club (feat. Juice WRLD)",
+      "artist": "Lil Yachty feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/10_Yacht_Club_(feat._Juice_WRLD)_Lil_Yachty_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yacht Club (feat. Juice WRLD)",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/11_Yacht_Club_(feat._Juice_WRLD)_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pimp Juice",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/12_Pimp_Juice_Nelly.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Frozen Orange Juice",
+      "artist": "Peter Sarstedt",
+      "has_synced": true,
+      "path": "select/13_Frozen_Orange_Juice_Peter_Sarstedt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Juice WRLD DID (feat. Juice WRLD)",
+      "artist": "DJ Khaled feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/14_Juice_WRLD_DID_(feat._Juice_WRLD)_DJ_Khaled_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Juice WRLD DID (feat. Juice WRLD)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/15_Juice_WRLD_DID_(feat._Juice_WRLD)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Juice (Know The Ledge) - Main Mix",
+      "artist": "Eric B. & Rakim",
+      "has_synced": true,
+      "path": "select/16_Juice_(Know_The_Ledge)_-_Main_Mix_Eric_B._&_Rakim.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blastoff (feat. Juice Wrld & Trippie Redd)",
+      "artist": "Internet Money feat. Juice WRLD & Trippie Redd",
+      "has_synced": true,
+      "path": "select/17_Blastoff_(feat._Juice_Wrld_&_Trippie_Redd)_Internet_Money_feat._Juice_WRLD_&_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Blast Off (feat. Juice WRLD & Trippie Redd)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/18_Blast_Off_(feat._Juice_WRLD_&_Trippie_Redd)_Internet_Money.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Juice",
+      "artist": "Lizzo",
+      "has_synced": false,
+      "path": "select/pl_01_Juice_Lizzo.txt"
+    }
+  ]
+}
